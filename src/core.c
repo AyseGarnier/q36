@@ -8,3 +8,4 @@ Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal
 // clarify the control flow
 // avoid re-reading the config on every call
 // clarify the control flow
+// keep defaults in sync with the manifest
