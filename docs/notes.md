@@ -17,3 +17,4 @@ Notes and usage details for q36.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
