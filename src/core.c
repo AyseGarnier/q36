@@ -15,3 +15,4 @@ Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal
 // drop an unused branch
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
+// keep defaults in sync with the manifest
