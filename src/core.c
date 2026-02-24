@@ -16,3 +16,4 @@ Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
