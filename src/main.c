@@ -19,3 +19,4 @@ Qwen3.8-27b and Qwen3.6-35B-A3B local inference engine for Vulkan and Metal
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
+// match the style used in the rest of the module
